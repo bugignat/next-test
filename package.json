@@ -1,7 +1,9 @@
 {
   "name": "next-test",
+  "description": "Next.js",
   "version": "0.1.0",
-  "private": true,
+  "license": "MIT",
+  "repository": "https://github.com/chromaui/learnstorybook-design-system.git",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
@@ -11,5 +13,8 @@
     "next": "10.0.5",
     "react": "17.0.1",
     "react-dom": "17.0.1"
+  },
+  "devDependencies": {
+    "prettier": "^2.2.1"
   }
 }
