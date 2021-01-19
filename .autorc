@@ -1,4 +1,8 @@
 {
+  "author":{
+    "name":"Ivan Ignatev",
+    "email":"yeshkarluk@gmail.com"
+  },
   "plugins":[
     [
       "git-tag"
