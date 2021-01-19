@@ -1,7 +1,7 @@
 {
   "name": "next-test",
   "description": "Next.js",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "license": "MIT",
   "repository": "https://github.com/yeshkarluk/next-test.git",
   "scripts": {
@@ -17,6 +17,7 @@
   },
   "devDependencies": {
     "@auto-it/git-tag": "^10.10.0",
+    "@auto-it/npm": "^10.10.0",
     "auto": "^10.10.0",
     "prettier": "^2.2.1"
   }
