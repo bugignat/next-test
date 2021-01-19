@@ -1,3 +1,15 @@
+# 0.2.0 (Tue Jan 19 2021)
+
+#### 🚀 Enhancement
+
+- обновлен reamde [#2](https://github.com/yeshkarluk/next-test/pull/2) ([@yeshkarluk](https://github.com/yeshkarluk))
+
+#### Authors: 1
+
+- Ivan Ignatev ([@yeshkarluk](https://github.com/yeshkarluk))
+
+---
+
 # 0.1.2 (Tue Jan 19 2021)
 
 #### 🐛 Bug Fix
