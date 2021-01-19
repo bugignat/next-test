@@ -1,3 +1,15 @@
+# 0.1.2 (Tue Jan 19 2021)
+
+#### 🐛 Bug Fix
+
+- обновлен конфиг auto ([@yeshkarluk](https://github.com/yeshkarluk))
+
+#### Authors: 1
+
+- Ivan Ignatev ([@yeshkarluk](https://github.com/yeshkarluk))
+
+---
+
 # v0.1.1 (Tue Jan 19 2021)
 
 #### 🐛 Bug Fix
