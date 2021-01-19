@@ -1,19 +1,14 @@
 {
-  "author":{
-    "name":"Ivan Ignatev",
-    "email":"yeshkarluk@gmail.com"
-  },
-  "plugins":[
-    [
-      "git-tag"
-    ],
+  "author": "Ivan Ignatev <yeshkarluk@gmail.com>",
+  "plugins": [
+    ["git-tag"],
     [
       "npm",
       {
-        "commitNextVersion":true
+        "commitNextVersion": true
       }
     ]
   ],
-  "baseBranch":"main",
-  "noVersionPrefix":true
+  "baseBranch": "main",
+  "noVersionPrefix": true,
 }
