@@ -1,3 +1,15 @@
+# 0.3.0 (Tue Jan 19 2021)
+
+#### 🚀 Enhancement
+
+- Test [#3](https://github.com/yeshkarluk/next-test/pull/3) ([@yeshkarluk](https://github.com/yeshkarluk))
+
+#### Authors: 1
+
+- Ivan Ignatev ([@yeshkarluk](https://github.com/yeshkarluk))
+
+---
+
 # 0.2.0 (Tue Jan 19 2021)
 
 #### 🚀 Enhancement
