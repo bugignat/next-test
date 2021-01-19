@@ -1,3 +1,15 @@
+# 0.4.2 (Tue Jan 19 2021)
+
+#### ⚠️ Pushed to `main`
+
+- test2 ([@yeshkarluk](https://github.com/yeshkarluk))
+
+#### Authors: 1
+
+- Ivan Ignatev ([@yeshkarluk](https://github.com/yeshkarluk))
+
+---
+
 # 0.4.1 (Tue Jan 19 2021)
 
 #### 🐛 Bug Fix
