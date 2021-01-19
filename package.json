@@ -9,7 +9,7 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "release": "auto shipit --base-branch=main"
+    "release": "auto shipit --base-branch=main --no-version-prefix=true"
   },
   "dependencies": {
     "next": "10.0.5",
