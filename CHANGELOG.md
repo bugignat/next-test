@@ -1,3 +1,19 @@
+# 0.4.0 (Tue Jan 19 2021)
+
+#### 🚀 Enhancement
+
+- добавлена новая страница one [#5](https://github.com/yeshkarluk/next-test/pull/5) ([@yeshkarluk](https://github.com/yeshkarluk))
+
+#### 🐛 Bug Fix
+
+- some shit [#4](https://github.com/yeshkarluk/next-test/pull/4) ([@yeshkarluk](https://github.com/yeshkarluk))
+
+#### Authors: 1
+
+- Ivan Ignatev ([@yeshkarluk](https://github.com/yeshkarluk))
+
+---
+
 # 0.3.0 (Tue Jan 19 2021)
 
 #### 🚀 Enhancement
