@@ -1,0 +1,15 @@
+{
+  "plugins":[
+    [
+      "git-tag"
+    ],
+    [
+      "npm",
+      {
+        "commitNextVersion":true
+      }
+    ]
+  ],
+  "baseBranch":"main",
+  "noVersionPrefix":true
+}
