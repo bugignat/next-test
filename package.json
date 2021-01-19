@@ -1,7 +1,7 @@
 {
   "name": "next-test",
   "description": "Next.js",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "license": "MIT",
   "repository": "https://github.com/yeshkarluk/next-test.git",
   "scripts": {
