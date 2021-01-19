@@ -1,3 +1,21 @@
+# 0.4.1 (Tue Jan 19 2021)
+
+#### 🐛 Bug Fix
+
+- удалена странциа three [#8](https://github.com/yeshkarluk/next-test/pull/8) ([@yeshkarluk](https://github.com/yeshkarluk))
+- страница three [#7](https://github.com/yeshkarluk/next-test/pull/7) ([@yeshkarluk](https://github.com/yeshkarluk))
+- страница two [#6](https://github.com/yeshkarluk/next-test/pull/6) ([@yeshkarluk](https://github.com/yeshkarluk))
+
+#### ⚠️ Pushed to `main`
+
+- test ([@yeshkarluk](https://github.com/yeshkarluk))
+
+#### Authors: 1
+
+- Ivan Ignatev ([@yeshkarluk](https://github.com/yeshkarluk))
+
+---
+
 # 0.4.0 (Tue Jan 19 2021)
 
 #### 🚀 Enhancement
