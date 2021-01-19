@@ -4,6 +4,7 @@
   "version": "0.3.0",
   "license": "MIT",
   "repository": "https://github.com/yeshkarluk/next-test.git",
+  "author": "Ivan Ignatev <yeshkarluk@gmail.com>",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
