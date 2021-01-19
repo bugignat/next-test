@@ -1,5 +1,6 @@
 {
   "author": "Ivan Ignatev <yeshkarluk@gmail.com>",
   "plugins": ["git-tag"],
-  "baseBranch": "main"
+  "baseBranch": "main",
+  "noVersionPrefix": true
 }
