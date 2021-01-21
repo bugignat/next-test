@@ -1,3 +1,15 @@
+# v1.0.1 (Thu Jan 21 2021)
+
+#### 🐛 Bug Fix
+
+- update readme [#10](https://github.com/yeshkarluk/next-test/pull/10) ([@yeshkarluk](https://github.com/yeshkarluk))
+
+#### Authors: 1
+
+- Ivan Ignatev ([@yeshkarluk](https://github.com/yeshkarluk))
+
+---
+
 # 1.0.0 (Tue Jan 19 2021)
 
 #### 💥 Breaking Change
