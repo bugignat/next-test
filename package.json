@@ -1,15 +1,15 @@
 {
   "name": "next-test",
-  "description": "Next.js",
   "version": "1.0.1",
-  "license": "MIT",
+  "description": "Next.js",
   "repository": "https://github.com/yeshkarluk/next-test.git",
+  "license": "MIT",
   "author": "Ivan Ignatev <yeshkarluk@gmail.com>",
   "scripts": {
-    "dev": "next dev",
     "build": "next build",
-    "start": "next start",
-    "release": "auto shipit --base-branch=main"
+    "dev": "next dev",
+    "release": "auto shipit --base-branch=main",
+    "start": "next start"
   },
   "dependencies": {
     "next": "10.0.5",
